@@ -18,6 +18,8 @@ It consists of these main areas to explore:
 * SEGA Loop - A Sonic-style loop with an art gallery and cherry blossom memorial. Visitors must traverse a series of moving platforms to reach the top.
 * Future Funk City - A Sailor Moon-esque cityscape dedicated to the Future Funk music genre, closely related to vaporwave.
 
+Please enjoy your chillout session.
+
 ## Achievement Spoilers:
 
 <details>

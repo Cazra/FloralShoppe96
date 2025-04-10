@@ -11,7 +11,7 @@ World link: https://vrchat.com/home/world/wrld_17651a87-c59f-4390-b8bc-eb556f84d
 ## Achievement Spoilers:
 
 <details>
-  <summary>On Top of Mt. Miji</summary>
+  <summary>On Top of Mt. Fiji</summary>
 
   Get to the very top of Mt. Fiji - on top of its bottle. (There is a statue on the mountain that can be interacted with to teleport up there)
 </details>
@@ -89,4 +89,5 @@ World link: https://vrchat.com/home/world/wrld_17651a87-c59f-4390-b8bc-eb556f84d
   * "Cat Dream" by Cyter
   * "スピリッツを飲む夜" (Drinking Spirits Night) by DΛRKNΣSS
 
-There have been many other updates before this, but I did not previously have an update log before making this project page.
+
+*There have been many other updates before this, but I did not previously have an update log before making this project page.*

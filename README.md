@@ -4,6 +4,8 @@ This Github "project" serves as a feedback board and updates log for my vaporwav
 If you have any feedback, or would like to report a bug with some of the Udon-driven content in the world, please open 
 an issue here.
 
+![Thumbnail of VRC world](/World-Floral-Shoppe-96-Image-201.file_ec560a25-dd1d-4ce6-a149-532a1fc68489.9.png)
+
 World link: https://vrchat.com/home/world/wrld_17651a87-c59f-4390-b8bc-eb556f84d8c7/info
 
 ## Achievement Spoilers:

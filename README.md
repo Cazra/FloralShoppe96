@@ -63,27 +63,33 @@ Please enjoy your chillout session.
   Collect all the Geometric Lullaby coins.
 </details>
 <details>
-  <summary>Black Vinyl</summary>
+  <summary>Vaporwave Fan</summary>
 
   Collect 10 music tracks.
 </details>
 <details>
-  <summary>Bronze Vinyl</summary>
+  <summary>Vinyl Collector</summary>
 
   Collect 20 music tracks.
 </details>
 <details>
-  <summary>Silver Vinyl</summary>
+  <summary>Future Funk Aficionado</summary>
 
   Collect 30 music tracks.
 </details>
 <details>
-  <summary>Gold Vinyl</summary>
+  <summary>Plunderphonics Plunderer</summary>
 
   Collect 40 music tracks.
 </details>
 
 ## Update Log:
+
+### April 26, 2025
+* Removed collision physics from drink particles due to lag.
+* Reprogrammed "Press F" achievement trigger to work without particle collisions.
+* Added URL for this GitHub repo to welcome graphic.
+* Added some new videos to swimming pool TV.
 
 ### March 30, 2025
 * Added water slide, based on art for Stevia Sphere's album "Water Slide".

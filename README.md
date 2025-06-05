@@ -48,6 +48,11 @@ Please enjoy your chillout session.
   Pour liquid from any of the beverage pickups onto the cherry blossom memorial in the SEGA Loop area.
 </details>
 <details>
+  <summary>Minesweeper</summary>
+
+  Win at a game of Minesweeper, located in the Digital Religion shrine hidden at XP Island.
+</details>
+<details>
   <summary>Tiger Collector</summary>
 
   Collect all the Tiger Blood Tapes coins.
@@ -84,6 +89,17 @@ Please enjoy your chillout session.
 </details>
 
 ## Update Log:
+
+### June 4, 2025
+* Optimized textures to be more memory-efficient.
+* Added hidden shrine area to XP Island.
+* New swimming pool TV content.
+* Added Minesweeper game (located in Digital Religion shrine).
+* New achievement:
+  * Minesweeper
+* New music collectibles:
+  * "Zora's Domain" by Polygon Dream
+  * "The World Is Quiet Here" by Jason Sanders 
 
 ### April 26, 2025
 * Removed collision physics from drink particles due to lag.

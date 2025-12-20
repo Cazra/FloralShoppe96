@@ -90,6 +90,12 @@ Please enjoy your chillout session.
 
 ## Update Log:
 
+### December 20, 2025
+* Added custom logos to portals on XP Island.
+
+### December 13, 2025
+* Added script to automatically turn on Christmas theme in December.
+
 ### June 4, 2025
 * Optimized textures to be more memory-efficient.
 * Added hidden shrine area to XP Island.

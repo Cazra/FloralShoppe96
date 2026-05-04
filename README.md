@@ -101,6 +101,7 @@ Please enjoy your chillout session.
   * Sunset Corp - "Nobody Here"
   * Maybe a couple others I'm forgetting about...
 * New swimming pool TV content.
+* Added bloom lighting effect to objects with emissions. (PC only)
 * Added Cat System Corp Oasys objects as a jetski obstacle.
 * Probably some other updates earlier from this year that I'm forgetting about...
 * Added near and far object culling scripts to help with performance going forward as I continue to add new stuff.

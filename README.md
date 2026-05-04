@@ -105,6 +105,8 @@ Please enjoy your chillout session.
 * Added Cat System Corp Oasys objects as a jetski obstacle.
 * Probably some other updates earlier from this year that I'm forgetting about...
 * Added near and far object culling scripts to help with performance going forward as I continue to add new stuff.
+* Removed early AI "art" gallery from top of SEGA loop. Although it was an interesting algorithmic curiosity back 
+  when I first added it, I'd rather use this area for samples of my human-generated artwork going forward.
 * Added new avatars:
   * Rasslor (from Dexter's Lab)
   * Echidna Rabbid (Rayman Rabid x a certain VRC Knuckles meme)

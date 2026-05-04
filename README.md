@@ -17,6 +17,7 @@ It consists of these main areas to explore:
 * XP Island - An island designed to look like the Windows XP desktop.
 * SEGA Loop - A Sonic-style loop with an art gallery and cherry blossom memorial. Visitors must traverse a series of moving platforms to reach the top.
 * Future Funk City - A Sailor Moon-esque cityscape dedicated to the Future Funk music genre, closely related to vaporwave.
+* Nobody Here Void - Small obstacle thing in tribute to the proto-vaporwave music video "Nobody Here".
 
 Please enjoy your chillout session.
 
@@ -89,6 +90,23 @@ Please enjoy your chillout session.
 </details>
 
 ## Update Log:
+
+### May 3, 2026
+* Changed terrain in Future Funk City Tokyo Tower area.
+* Added "Nobody Here Void".
+* Optimized networking for the Minesweeper game.
+* Added some new music collectibles.
+  * Funky Cadet - "Stay Groovy"
+  * XWaves - "The Sun Goes Down"
+  * Sunset Corp - "Nobody Here"
+  * Maybe a couple others I'm forgetting about...
+* New swimming pool TV content.
+* Added Cat System Corp Oasys objects as a jetski obstacle.
+* Probably some other updates earlier from this year that I'm forgetting about...
+* Added near and far object culling scripts to help with performance going forward as I continue to add new stuff.
+* Added new avatars:
+  * Rasslor (from Dexter's Lab)
+  * Echidna Rabbid (Rayman Rabid x a certain VRC Knuckles meme)
 
 ### December 20, 2025
 * Added custom logos to portals on XP Island.

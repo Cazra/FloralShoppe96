@@ -88,8 +88,24 @@ Please enjoy your chillout session.
 
   Collect 40 music tracks.
 </details>
+<details>
+  <summary>Your Pet Flamingo</summary>
+
+  Pet the anomalous flamingo.
+</details>
 
 ## Update Log:
+
+### May 24, 2026
+* Added track select menu to cassette player.
+* Added Shutdown Void - accessible by clicking the "Delete Persistent Data" button.
+* Cleaned up big computer model.
+* New music collectibles.
+  * Infinity Frequencies
+  * Male Tears
+* New swimming pool TV content.
+* Added flamingos near Nobody Here Void. One of the flamingos will start following the player like it's SCP-173.
+* Changed some terrain in Future Funk City.
 
 ### May 3, 2026
 * Changed terrain in Future Funk City Tokyo Tower area.

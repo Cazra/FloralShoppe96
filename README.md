@@ -9,15 +9,15 @@ an issue here.
 World link: https://vrchat.com/home/world/wrld_17651a87-c59f-4390-b8bc-eb556f84d8c7/info
 
 ## About the world:
-Floral Shoppe 96 is a VRChat world dedicated as a tribute to the Vaporwave music genre. It contains avatars, jetskis, collectibles, achievements, and many more interactive elements.
+Floral Shoppe 96 is a vaporwave-themed VRChat world. It contains avatars, CD jetskis, collectibles, achievements, and many more interactive elements.
 
 It consists of these main areas to explore:
-* Helios Plaza - The spawn point area starring Helios himself.
+* Helios Plaza - The spawn point area, reminiscent of the album art for Floral Shoppe by Macintosh Plush/Vektroid.
 * Mt. Fiji - An inactive volcano that is the source of Fiji Vaporwave Water. A ramp leads up to its summit and a ramen spa.
 * XP Island - An island designed to look like the Windows XP desktop.
 * SEGA Loop - A Sonic-style loop with an art gallery and cherry blossom memorial. Visitors must traverse a series of moving platforms to reach the top.
 * Future Funk City - A Sailor Moon-esque cityscape dedicated to the Future Funk music genre, closely related to vaporwave.
-* Nobody Here Void - Small obstacle thing in tribute to the proto-vaporwave music video "Nobody Here".
+* Nobody Here Void - Small obstacle course thing in tribute to the proto-vaporwave music video "Nobody Here".
 
 Please enjoy your chillout session.
 

@@ -96,6 +96,16 @@ Please enjoy your chillout session.
 
 ## Update Log:
 
+### June 27, 2026
+* Separated XP Island water area from main area. Added jetski ramp for access.
+* Optimized with static batching.
+* MOON
+* Fixed vinyl counter.
+* Added unlockable tracks by:
+  * Corrupt Save
+  * Global Chill
+* Added new video player content.
+
 ### May 24, 2026
 * Added track select menu to cassette player.
 * Added Shutdown Void - accessible by clicking the "Delete Persistent Data" button.
